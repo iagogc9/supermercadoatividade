@@ -1,0 +1,18 @@
+-Quantos registros há no nome Ana no banco de dados.
+R= 4
+
+-Quantos Carlos existem no banco, se houver mais que um verifique se eles são a mesma pessoa.
+R= 3 Carlos na tabela porém não são a mesma pessoa :) .
+
+-Existe mais de uma pessoa com o mesmo CPF?
+R= Não
+
+-Quantos produtos custam mais de 20 reais?
+
+R= 3
+
+
+
+\O
+((>
+<|
